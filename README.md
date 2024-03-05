@@ -1,13 +1,12 @@
+## Overview
+
+This repository contains the code for Qspider classes. The code is organized by topics, and each topic's code is available in its respective folder.
+
 ## Table of Contents
-- [Overiew](#overview)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Updates](#updates)
 - [Contributing](#contributing)
-
-## Overview
-
-This repository contains the code for Qspider classes. The code is organized by topics, and each topic's code is available in its respective folder.
 
 ## Getting Started
 
@@ -31,3 +30,9 @@ Contributions are welcome! If you'd like to contribute to My Portfolio, please f
 3. Commit your changes: `git commit -m 'Add some feature'`
 4. Push to the branch: `git push origin my-feature`
 5. Open a pull request.
+
+---
+
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/qasimk02">Mohammad Qasim</a> and <a href="https://github.com/Sudesh22">Sudesh Manjrekar</a> | Powered by Flask and React.
+</p>
