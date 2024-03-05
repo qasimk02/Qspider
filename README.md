@@ -32,7 +32,17 @@ Contributions are welcome! If you'd like to contribute to My Portfolio, please f
 5. Open a pull request.
 
 ---
+## Connect with Me
+
+Feel free to connect with me on GitHub and LinkedIn:
+
+- GitHub: [qasimk02](https://github.com/qasimk02)
+- LinkedIn: [Mohammad Qasim](https://www.linkedin.com/in/mohammad-qasim-9ba96120a/)
+
+For any questions or concerns related to this repository, please contact Mohammad Qasim at qasiim51@gmail.com.
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/qasimk02">Mohammad Qasim</a> and <a href="https://github.com/Sudesh22">Sudesh Manjrekar</a> | Powered by Flask and React.
+  Made with ❤️ by <a href="https://github.com/qasimk02">Mohammad Qasim</a>
 </p>
+
+
