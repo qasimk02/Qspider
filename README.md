@@ -14,7 +14,7 @@ To access the code for a specific topic, navigate to the corresponding folder. E
 
 
 ## Usage
-1. Clone the repository: `git clone https://github.com/qasimk02/Qspider.git`
+1. Clone the repository: `git clone https://github.com/qasimk02/qspider-repo.git`
 2. Navigate to the desired directory: `cd Qspider/topic-name`
 3. Open the code in your preferred editor.
 4. Run the code as needed.
