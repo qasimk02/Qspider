@@ -24,7 +24,7 @@ To access the code for a specific topic, navigate to the corresponding folder. E
 1. git pull origin master
 
 ## Contributing
-Contributions are welcome! If you'd like to contribute to My Portfolio, please follow these steps:
+Contributions are welcome! If you'd like to contribute to this repository, please follow these steps:
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix: `git checkout -b my-feature`
 3. Commit your changes: `git commit -m 'Add some feature'`
@@ -39,7 +39,7 @@ Feel free to connect with me on GitHub and LinkedIn:
 - GitHub: [qasimk02](https://github.com/qasimk02)
 - LinkedIn: [Mohammad Qasim](https://www.linkedin.com/in/mohammad-qasim-9ba96120a/)
 
-For any questions or concerns related to this repository, please contact Mohammad Qasim at qasiim51@gmail.com.
+For any questions or concerns related to this repository, please contact me at qasiim51@gmail.com.
 
 <p align="center">
   Made with ❤️ by <a href="https://github.com/qasimk02">Mohammad Qasim</a>
