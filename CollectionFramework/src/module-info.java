@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author javed
+ *
+ */
+module CollectionFramework {
+}
