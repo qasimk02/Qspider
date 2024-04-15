@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="CollectionFramework/src"/>
+	<classpathentry excluding="Assignments/" kind="src" path="CoreJava/10Encapsulation"/>
+	<classpathentry kind="src" path="CoreJava/10Encapsulation/Assignments"/>
+	<classpathentry excluding="Doubt/|Assignment/" kind="src" path="CoreJava/11Inheritance"/>
+	<classpathentry kind="src" path="CoreJava/11Inheritance/Assignment"/>
+	<classpathentry kind="src" path="CoreJava/11Inheritance/Doubt"/>
+	<classpathentry kind="src" path="CoreJava/12Polymorphism/Assignment"/>
+	<classpathentry kind="src" path="CoreJava/13Abstraction/Assignment"/>
+	<classpathentry kind="src" path="CoreJava/14ObjectClass/Assignment"/>
+	<classpathentry kind="src" path="CoreJava/1MethodRecursion"/>
+	<classpathentry kind="src" path="CoreJava/2StaticBlock"/>
+	<classpathentry kind="src" path="CoreJava/4Object"/>
+	<classpathentry kind="src" path="CoreJava/5StaticVsNonstatic"/>
+	<classpathentry kind="src" path="CoreJava/6thisKeyword"/>
+	<classpathentry kind="src" path="CoreJava/7NonStaticBlock"/>
+	<classpathentry kind="src" path="CoreJava/8Constructor"/>
+	<classpathentry kind="src" path="CoreJava/9ScannerClass"/>
+	<classpathentry kind="src" path="CoreJava/Practice/OOps"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

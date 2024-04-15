@@ -5,5 +5,5 @@
  * @author javed
  *
  */
-module BasicProgramming {
+module Shoplify {
 }
